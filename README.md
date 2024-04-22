@@ -1,4 +1,4 @@
-plnepsmiss: run nepsmiss in parallel
+benchmark: Benchmarking Stata
 ======================================================================
 _benchmark_ conducts a benchmark test to see how powerful your current system is. It computes eight of Stata's most relevant statistical methods. Estimated runtime is between 5 and 15 minutes on current systems (2024).
 
