@@ -1,0 +1,8 @@
+v 3
+d benchmark: Benchmarking Stata
+d 
+d Author: Felix Bittmann, LifBi Bamberg, felix.bittmann@lifbi.de
+d
+d Distribution-Date: 20242204
+f benchmark.ado
+f benchmark.sthlp
