@@ -8,7 +8,6 @@ Installation
 ``` stata
 . net install benchmark, from(https://raw.github.com/fbittmann/benchmark/stable) replace
 ```
-Note that the packages [parallel](https://github.com/gvegayon/parallel) and [nepstools](https://www.neps-data.de/Data-Center/Overview-and-Assistance/Stata-Tools) are required!
 
 Examples
 ========
