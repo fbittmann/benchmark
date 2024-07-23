@@ -17,6 +17,7 @@ Setup and minimal example
 ``` stata
 benchmark, graph
 ```
+![Benchmark](graph.png "Benchmark results")
 
 Citation
 ============
